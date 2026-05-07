@@ -1,10 +1,23 @@
-Welcome to iahc profile builder it's one of my first projects on github I hope you love it
+# iahc profile builder
 
-1-Create a .env file and allow your frontned server there
+Welcome to iahc Network it's one of my first projects on github I hope you love it
+
+# Environments 
+
+Create a .env file and allow your frontned server there:
+
 SECRET_KEY=
+
 DEBUG=
+
 ALLOWED_HOSTS=
 
-2-execute pip install -r requirements.txt
+SECRET_KEY=
 
-3-execute python manage.py runserver
+# Downloading the python libs
+
+execute pip install -r requirements.txt
+
+# Running
+
+python manage.py runserver
