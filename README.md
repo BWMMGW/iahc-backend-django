@@ -12,8 +12,6 @@ DEBUG=
 
 ALLOWED_HOSTS=
 
-SECRET_KEY=
-
 # Downloading the python libs
 
 execute pip install -r requirements.txt
